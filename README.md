@@ -1,0 +1,1 @@
+# Gerenciador-de-Opera-es---progway
