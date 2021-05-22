@@ -1,4 +1,7 @@
 # Gerenciador-de-Operacoes-progway
   Para executar o codigo deve-se baixar a pasta "Executavel.rar" e extrair a pasta "executavel", nela será executado um código java "Gerenciador", (é possível o computador alertará de possíveis danos ao sistema, mas isso é apenas devido à sua extensão, garanto que nenhum problema ocorrerá.)
-  Ao abrir o programa deve-se digitar o nome de quem vai fazer a conversão, no campo "nome", o valor que será convertido no campo "quantidade" e a moeda na "moeda de origem", após seleciona qual será a moeda para qual o valor deverá ser convertido em "moeda de destino" e clique em "converter"
-    
+  Ao abrir o programa deve-se digitar o nome de quem vai fazer a conversão, no campo "nome", o valor que será convertido no campo "quantidade" e a moeda na "moeda de origem", após seleciona qual será a moeda para qual o valor deverá ser convertido em "moeda de destino" e a data da operação clicando no ícone do calendário ou digitando o dia com "dd/mm/yyyy" e clique em "converter", pode-se repetir esse processo alterando alguns dos dados para prencher melhor a tebela.
+  Para aplicar algum filtro pode-se digitar o nome à ser filtrado no segundo campo "nome" ou pelo segundo campo "data", se quiser pode-se aplicar os dois filtros simultanêamente.
+  Obs.: Não foi possivel colocar o valor total das operações nem o valor total das taxas conforme o filtro devido à falta de tempo disponível que eu possuia para utilizar um computador.
+  
+  Para acessar o código fonte do programa e ver o que foi feito deve-se baixar o arquivo "CodFont", (não é necessário extrair), abrir a IDE NetBeans 8.2 (pode ser baixada no link https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html), ir em "arquivo", "importar projeto", "de zip..." e selecionar o arquivo "CoDFont" ainda compactado.
